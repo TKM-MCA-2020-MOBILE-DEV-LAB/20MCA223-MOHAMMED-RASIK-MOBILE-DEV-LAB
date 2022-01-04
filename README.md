@@ -11,7 +11,7 @@ credentials.</li>
 <li>Implement validations on various UI controls.</li>
 </ol>
 
-<b>Course Outcome 2 (CO2)</b>
+<b>Course Outcome 2 (CO2):</b>
 <ol>
 <li>Design a registration activity and store registration details in local memory of phone
 using Intents and SharedPreferences.</li>
